@@ -1,0 +1,5 @@
+*.config.js
+*.module.js
+*.umd.js
+dist
+node_modules
